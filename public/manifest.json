@@ -1,0 +1,14 @@
+{
+  "theme_color": "#f69435",
+  "background_color": "#f69435",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "Test PWA",
+  "short_name": "Qucik",
+  "icon": {
+    "src": "/Big-logo-icon.jpg",
+    "sizes": "229x220",
+    "type": "image/jpg"
+  }
+}
